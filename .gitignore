@@ -1,0 +1,12 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ZadanieWeryfikacyjne/obj/Debug/net6.0/ZadanieWeryfikacyjne.GeneratedMSBuildEditorConfig.editorconfig
+/ZadanieWeryfikacyjne/obj/Debug/net6.0/ZadanieWeryfikacyjne.csproj.FileListAbsolute.txt
+/ZadanieWeryfikacyjne/obj/Debug/net6.0/ZadanieWeryfikacyjne.csproj.BuildWithSkipAnalyzers
+/ZadanieWeryfikacyjne.Api/bin/Debug/net6.0
+/ZadanieWeryfikacyjne.Api/obj
+/ZadanieWeryfikacyjne.Repository/obj
+/ZadanieWeryfikacyjne/obj
